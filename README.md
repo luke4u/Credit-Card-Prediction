@@ -3,5 +3,5 @@ This is to create models to detect frauds in credit card transactions using Deep
 
 Dataset can be downloaded from Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-******Production codes are updated for RF. ENJOY 💕💕******
+******Production codes are updated for RF. ENJOY 💕💕****** Note the preprocessors part of the pipeline are the same, so for the rest models, follow the same pipeline.
 
