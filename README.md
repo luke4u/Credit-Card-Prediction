@@ -7,3 +7,5 @@ Dataset can be downloaded from Kaggle: https://www.kaggle.com/mlg-ulb/creditcard
 
 Note the preprocessors part of the pipeline are the same, so for the rest models, follow the same pipeline.
 
+******Dockerfile and Flask API dev are to be added. Stay tuned🤞🤞******
+
